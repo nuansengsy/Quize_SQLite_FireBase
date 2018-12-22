@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "844935615419",
+    "firebase_url": "https://quiz-bbcb7.firebaseio.com",
+    "project_id": "quiz-bbcb7",
+    "storage_bucket": "quiz-bbcb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844935615419:android:34243eb01a4cc584",
+        "android_client_info": {
+          "package_name": "com.e.quize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844935615419-0ikb0mluabm9ga2kgvhooirr3i6oajjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9NGQVlACEfLLRX1aKX9M4e-elP0YJ3n0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

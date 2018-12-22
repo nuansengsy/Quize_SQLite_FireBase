@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Quize</string>
+
+    <string name="np">Ваше имя</string>
+    <string name="b5">Начать тест</string>
+
+    <string name="answerBtn">Ответить</string>
+    <string name="stop_quiz">Завершить тест</string>
+    <string name="answerBtn2">Дальше</string>
+    <string name="quiz_again">Пройти заново</string>
+    <string name="show_quiz_history">Показать историю</string>
+    <string name="quiz_history">История</string>
+    <string name="close">Закрыть</string>
+
+    <string name="quiz_result">%s: правильно %d, неправильно %d</string>
+
+    <string name="question0Name">В парке гуляло 8 осликов. Из них 3 ослика возили детей. Сколько осликов было свободно?</string>
+    <string-array name="question0WrongAnswers">
+        <item>3</item>
+        <item>4</item>
+        <item>7</item>
+    </string-array>
+    <string name="question0RightAnswer">5</string>
+
+
+    <string name="question1Name">Володя подтягивается на турнике 9 раз, а Коля подтягивается 6 раз. Сколько раз могут подтянуться Володя и Коля вместе?</string>
+    <string-array name="question1WrongAnswers">
+        <item>13</item>
+        <item>14</item>
+        <item>17</item>
+    </string-array>
+    <string name="question1RightAnswer">15</string>
+
+
+    <string name="question2Name">Во дворе гуляло 7 гусей и утки. Сколько уток гуляло во дворе, если известно, что уток было на 4 птицы больше?</string>
+    <string-array name="question2WrongAnswers">
+        <item>9</item>
+        <item>10</item>
+        <item>12</item>
+    </string-array>
+    <string name="question2RightAnswer">11</string>
+
+
+    <string name="question3Name">Какой пример в итоге дает число 6</string>
+    <string-array name="question3WrongAnswers">
+        <item>3 + 5 =</item>
+        <item>1 + 7 =</item>
+        <item>3 + 5 =</item>
+    </string-array>
+    <string name="question3RightAnswer">4 + 2 =</string>
+
+
+    <string name="question4Name">Выбери правильное решение примера: 7 + 3 - 1 =...</string>
+    <string-array name="question4WrongAnswers">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string name="question4RightAnswer">9</string>
+</resources>
